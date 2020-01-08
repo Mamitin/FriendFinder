@@ -48,4 +48,4 @@ node server.js
     - [x] The modal should display both the name and picture of the closest match.
 
 ##This code snipit shows how the survey answers are compared to the users anwsers.
-<img src="/app/assets/Capture.PNG">
+<img src="/app/public/assets/Capture.PNG">
