@@ -46,3 +46,6 @@ node server.js
     - [x] The closest match will be the user with the least amount of difference.
     - [x] Once you've found the current user's most compatible friend, display the result as a modal pop-up.
     - [x] The modal should display both the name and picture of the closest match.
+
+##This code snipit shows how the survey answers are compared to the users anwsers.
+<img src="/app/assets/Capture.PNG">
