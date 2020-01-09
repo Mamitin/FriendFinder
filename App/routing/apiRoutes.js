@@ -6,7 +6,6 @@ module.exports = function (app) {
     });
 
     app.post("/api/friends", function (req, res) {
-        //console.log("this post route was hit")
         var survey = req.body;
         var scoresArray = [];
         console.log(survey);
